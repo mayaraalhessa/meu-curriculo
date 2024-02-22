@@ -1,0 +1,15 @@
+body{
+    margin: 0 200px 0 200px;
+}
+h1{
+    text-align: center;
+}
+h2{
+    font-weight: bold;
+}
+hr{
+    border: 1px solid rgb(201, 201, 217);
+}
+h4{
+    text-align: center;
+}
